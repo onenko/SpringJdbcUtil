@@ -45,6 +45,11 @@ So solution is to use clob.
 
 Thanks to recent drivers and jdbc - we can use simple code to read/write CLOB without streams, just with string value.
 
+### Links
+
+https://stackoverflow.com/questions/22518991/using-jdbctemplate-to-insert-large-clobs-into-oracle-fails
+https://stackoverflow.com/questions/2169732/most-efficient-solution-for-reading-clob-to-string-and-string-to-clob-in-java
+
 
 
 
